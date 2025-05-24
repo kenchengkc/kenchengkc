@@ -9,7 +9,7 @@
 
 - 📫 Reach out to me at **kc3843@columbia.edu**
 
-- ⚡ Fun fact **I love Formula 1 and all other motorsports!**
+- 🏎️ Fun fact **I love Formula 1 and all other motorsports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
