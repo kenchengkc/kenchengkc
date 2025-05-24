@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **full stack and ML/AI projects**
+- 🤝 I’m looking to collaborate on **full stack and ML/AI projects**
 
 - 💬 Ask me about **my deep learning research publications**
 
