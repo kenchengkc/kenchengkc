@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 🤝 I’m looking to collaborate on **full stack and ML/AI projects**
+- 🤝 I’m looking to collaborate on **full-stack and ML/AI projects**
 
 - 💬 Ask me about **my deep learning research publications** [(Read them here!)](https://www.researchgate.net/profile/Ken-Cheng-17)
 
 - 📫 Reach out to me at **kc3843@columbia.edu**
 
-- 🏎️ Fun fact **I love Formula 1 and all other motorsports!**
+- 🏎️ Fun fact: **I love Formula 1 and all other motorsports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
