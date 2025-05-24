@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **my deep learning research publications**
 
-- 📫 How to reach me **kc3843@columbia.edu**
+- 📫 Reach out to me at **kc3843@columbia.edu**
 
 - ⚡ Fun fact **I love Formula 1 and all other motorsports!**
 
