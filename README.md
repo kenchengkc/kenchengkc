@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken Cheng</h1>
 <h3 align="center">A CS major at Columbia University who is hungry to develop creative solutions to real-world problems.</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Redis**
 
 - 🤝 I’m looking to collaborate on **full-stack and ML/AI projects**
 
